@@ -8,7 +8,9 @@ Environment is cluster with 1 router and 3 raspberry pi(rpi) board used DHCP and
 1. SDcard format -> tool : https://www.sdcard.org/downloads/formatter_4/
 2. SDcard Flash -> tool : https://www.balena.io/etcher/
 ## wireless lan using and connect the remote pc
-(picture)
+
+![raspberry pi setting](./Pictures/20190219_204033.jpg)
+
 * get the root access
 * change the hostname
 ```
