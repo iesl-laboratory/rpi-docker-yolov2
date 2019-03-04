@@ -9,7 +9,8 @@ Environment is cluster with 1 router and 3 raspberry pi(rpi) board used DHCP and
 2. SDcard Flash -> tool : https://www.balena.io/etcher/
 ## wireless lan using and connect the remote pc
 
-![raspberry pi setting](./Pictures/20190219_204033.jpg)
+![raspberry pi setting](./Pictures/20190219_204414.jpg)
+![nodes ssh](./Pictures/nodeSSH.jpg)
 
 * get the root access
 * change the hostname
