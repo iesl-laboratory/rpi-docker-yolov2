@@ -12,8 +12,8 @@ Environment is cluster with 1 router and 3 raspberry pi(rpi) board used DHCP and
 ![raspberry pi setting](./Pictures/20190219_204414.jpg)
 ![nodes ssh](./Pictures/nodes_SSH.jpg)
 
-* get the root access
-* change the hostname
+get the root access
+change the hostname
 ```
 $ vi /etc/hostname
 ```
