@@ -10,7 +10,6 @@ Environment is cluster with 1 router and 3 raspberry pi(rpi) board used DHCP and
 ## wireless lan using and connect the remote pc
 
 ![raspberry pi setting](./Pictures/20190219_204414.jpg)
-![nodes ssh](./Pictures/nodes_SSH.jpg)
 
 get the root access
 change the hostname
